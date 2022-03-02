@@ -35,8 +35,8 @@ ruleset=🐟 漏网之鱼,[]FINAL
 custom_proxy_group=✈️ 节点选择`select`[]♻️ 自动选择`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=🚀 手动切换`select`.*
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,20
-custom_proxy_group=📹 油管视频`select`[]✈️ 节点选择`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 特殊节点`[]🚀 手动切换`[]DIRECT
-custom_proxy_group=💻 流媒视频`select`[]💿 视频节点`[]✈️ 节点选择`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 特殊节点`[]🚀 手动切换
+custom_proxy_group=📹 油管视频`select`[]✈️ 节点选择`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇭🇰 中转节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 特殊节点`[]🚀 手动切换`[]DIRECT
+custom_proxy_group=💻 流媒视频`select`[]💿 视频节点`[]✈️ 节点选择`[]♻️ 自动选择`[]🇸🇬 狮城节点`[]🇭🇰 香港节点`[]🇭🇰 中转节点`[]🇨🇳 台湾节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 特殊节点`[]🚀 手动切换
 custom_proxy_group=🌍 国外媒体`select`[]✈️ 节点选择`[]♻️ 自动选择`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🇺🇲 美国节点`[]🇰🇷 特殊节点`[]🚀 手动切换`[]DIRECT
 custom_proxy_group=🌏 国内媒体`select`[]DIRECT`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 狮城节点`[]🇯🇵 日本节点`[]🚀 手动切换
 custom_proxy_group=📺 哔哩哔哩`select`[]🎯 全球直连`[]🇨🇳 台湾节点`[]🇭🇰 香港节点
@@ -58,7 +58,7 @@ custom_proxy_group=🇨🇳 台湾节点`url-test`((?=.*(台|TW|(?i)Taiwan))^((?
 custom_proxy_group=🇸🇬 狮城节点`url-test`((?=.*(新加坡|狮城|SG|(?i)Singapore))^((?!(香港|台湾|日本|美国|韩国|南朝鲜|US|JP|KR|HK|TW|台灣|美國|韓國)).)*$)`http://www.gstatic.com/generate_204`300,,20
 custom_proxy_group=🇭🇰 荷兰节点`url-test`(德|法|荷|英|瑞)`http://www.gstatic.com/generate_204`300,,20
 custom_proxy_group=🇰🇷 特殊节点`select`(SP|马来|德|越南)
-custom_proxy_group=🇭🇰 中转节点`select`(中转|V香港)
+custom_proxy_group=🇭🇰 中转节点`select`(中转|V香港)`http://www.gstatic.com/generate_204`300,,20
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]✈️ 节点选择`[]♻️ 自动选择
 ;custom_proxy_group=🛑 隐私拦截`select`[]REJECT`[]DIRECT
 
