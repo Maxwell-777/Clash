@@ -61,6 +61,13 @@ custom_proxy_group=🇰🇷 特殊节点`select`(SP|马来|德|越南)
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]✈️ 节点选择`[]♻️ 自动选择
 ;custom_proxy_group=🛑 隐私拦截`select`[]REJECT`[]DIRECT
 
-
+udp_flag=true
+tcp_fast_open_flag=true
+filter_deprecated_nodes=true
+clash_use_new_field_name=true
 enable_rule_generator=true
 overwrite_original_rules=true
+surge_rule_base=https://raw.githubusercontent.com/HotKids/Rules/master/Surge/Sample.conf
+surfboard_rule_base=https://raw.githubusercontent.com/HotKids/Rules/master/Surge/Surfboard.conf
+quanx_rule_base=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/Sample.conf
+clash_rule_base=https://raw.githubusercontent.com/HotKids/Rules/master/Clash/General.yaml
