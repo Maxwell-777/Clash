@@ -30,9 +30,9 @@ fonts.googleapis.com = server:119.29.29.29 // Google Fonts
 fonts.gstatic.com = server:119.29.29.29 // Google Fonts
 
 # > Apple
-networking.apple = server:https://doh.dns.apple.com/dns-query // Apple
-*.apple.com = server:https://doh.dns.apple.com/dns-query // Apple.com
-*.icloud.com = server:https://doh.dns.apple.com/dns-query // iCloud.com
+# networking.apple = server:https://doh.dns.apple.com/dns-query // Apple
+# *.apple.com = server:https://doh.dns.apple.com/dns-query // Apple.com
+# *.icloud.com = server:https://doh.dns.apple.com/dns-query // iCloud.com
 
 # > Alphabet
 *.google = server:https://dns.google/dns-query // Google
