@@ -3,11 +3,9 @@
 
 #奥德赛
 DOMAIN-SUFFIX,odysseyplus.site
-DOMAIN-KEYWORD,odysseyplus
 
 #卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-KEYWORD,jmsooo
 
 #终点站
 DOMAIN-SUFFIX,emby.wtf
@@ -17,12 +15,16 @@ DOMAIN-SUFFIX,aaa.ax
 
 #Poloemby
 DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN-KEYWORD,poloemby
 
 #Pornemby
 DOMAIN-KEYWORD,pornemby
 
-#Misakaf、Flower
-DOMAIN-SUFFIX,misakaf.xyz
-DOMAIN-KEYWORD,misakaf
-DOMAIN-SUFFIX,flowercloud.yt
+#Misakaf、其他
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,mgl.gay
+DOMAIN-SUFFIX,ju.dog
+DOMAIN-SUFFIX,misty.ltd
+DOMAIN-SUFFIX,emby.eu.org
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,123456.al
